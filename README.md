@@ -1,5 +1,4 @@
 # PowerBI-Business-Analytics-Dashboard
-# Power BI Business Analytics Dashboard
 
 ## Project Overview
 
